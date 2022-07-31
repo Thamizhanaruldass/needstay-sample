@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/needstay/public_html/
-    - /bin/cp main-website $DEPLOYPATH
+    - /bin/cp * $DEPLOYPATH
